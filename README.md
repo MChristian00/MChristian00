@@ -1,5 +1,6 @@
 # 👋🏽 Hiya, I'm Chris__
 
+✨ A Computer Science and Math major & soon-to-be-alumni of Amherst College  
 🧠 Just another curious builder, coder, and thinker  
 🌍 Who finds solving problems with data, language, and logic really cool
 📚 And currently exploring **NLP**, **Distributed Computing**, and **Data Engineering!**  

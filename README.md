@@ -20,7 +20,7 @@
 - 🌳 Elegant math and elegant systems  
 - 👯 Collaborative projects with purpose
 - 🔭 Thoughtful design and elegant logic  
-- 🧘🏽‍♂️ Clean code, clear goals, and a good sport game
+- 🧘🏽‍♂️ Clean code, clear goals, and a good soccer game
 
 ## 📫 Let’s Connect!
 

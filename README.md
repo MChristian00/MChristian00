@@ -1,4 +1,4 @@
-# 👋🏽 Hiya, I'm Chris__
+# 👋🏽 Ayo, I'm Chris__
 
 ✨ A Computer Science and Math major & soon-to-be-alumni of Amherst College  
 🧠 Just another curious builder, coder, and thinker  

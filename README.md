@@ -10,8 +10,9 @@
 - 🔤 Natural Language Processing 
 - 🏗️ Data Engineering 
 - 🕵🏽‍♂️ Statistical Modeling & Analytics 
-- ⚙️ Distributed Systems 
-- 💻 Fullstack Web Development 
+- ⚙️ Distributed Systems
+- 🧮 Nonlinear Optimization
+- 💻 Full-stack Web Development 
 - 🧾 Graph Theory(ization)
 - ✨ Coding Mentor & Tutor
 
